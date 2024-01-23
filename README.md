@@ -17,7 +17,7 @@ The following are the main features and development approach used in this projec
 # How to Use
   - Clone this repository to your local machine
   - Import the project to your IDE (Eclipse/IntelliJ IDEA or VSCode recommended)
-  - Run the application by executing the 'EmployeeManagementApp.java'
+  - Run the application by executing the `EmployeeManagementApp.java`
   - Follow the on-screen instructions to use the application
 # Contributing
 Contributions to this project are welcome. If you find a bug or have a feature request, please open an issue in the repository. If you would like to contribute code, please fork the repository and create a pull request.
